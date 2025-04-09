@@ -36,7 +36,7 @@ nav ul {
 }
 
 nav ul li {
-    padding: 15px;
+    padding: 18px;
 }
 
 nav ul li a {
